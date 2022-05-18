@@ -1,11 +1,11 @@
 {
-    "name": "V2/X2",
+    "name": "V/X2",
     "description": "Deploy V2 or X2 on Heroku.",
-    "keywords": ["V2/X2"],
+    "keywords": ["V/X2"],
     "env": {
         "ID": {
-            "description": "V2/X2 ID, use uuid generator",
-            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+            "description": "V/X2 ID, use uuid generator",
+            "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb108"
         }
     },
     "repository": "",
